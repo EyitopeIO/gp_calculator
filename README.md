@@ -1,3 +1,2 @@
 # gp_calculator
-code used for tutorials. 
-Code used to explain some concepts in Python. It doesn't do much.
+Example code used to explain some teach Python at CCF-NIFES. It doesn't do much.
